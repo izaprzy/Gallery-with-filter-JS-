@@ -1,0 +1,31 @@
+body {
+    background-color: #e5e5e5;
+}
+
+#gallery {
+    text-align: center;
+}
+.hidden {
+    display: none;
+}
+
+.filter {
+    text-align: center;
+    margin: 30px;
+}
+
+#tagInput, #hideButton, #showButton {
+    font-size: 2rem;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+#hideButton, #showButton {
+    background-color: #5b7aff;
+    border: transparent;
+}
+
+#tagInput {
+    background-color: #f6f6f6;
+    border-color: #5b7aff ;
+}
